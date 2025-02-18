@@ -3,9 +3,9 @@ import './Home.css'
 
 function Home() {
   return (
-    <div>
-      
-    </div>
+      <div id="home">
+
+      </div>
   )
 }
 
